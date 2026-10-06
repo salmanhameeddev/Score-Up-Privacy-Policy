@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ScoreUp Privacy Policy</title>
+<style>
+  :root {
+    --primary: #D4AF37;
+    --secondary: #F3E5AB;
+    --tertiary: #997A15;
+    --neutral: #121414;
+    --surface: #1b1e1e;
+    --bg: var(--neutral);
+    --text: var(--secondary);
+    --muted: var(--tertiary);
+    --border: var(--tertiary);
+    --accent: var(--primary);
+    --quote-bg: var(--surface);
+    --th-bg: var(--surface);
+    color-scheme: dark;
+  }
+  h1, h2 { color: var(--primary); }
+  strong { color: var(--primary); }
+  hr { border-top-color: var(--tertiary) !important; opacity: 0.6; }
+  th { color: var(--primary); }
+  a:hover { color: var(--secondary); }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.7;
+  }
+  main {
+    max-width: 780px;
+    margin: 0 auto;
+    padding: 40px 20px 64px;
+  }
+  h1 { font-size: 2rem; margin: 0 0 16px; }
+  h2 { font-size: 1.25rem; margin: 36px 0 12px; }
+  p, li { font-size: 1rem; }
+  ul { padding-left: 22px; }
+  li { margin: 6px 0; }
+  a { color: var(--accent); }
+  hr { border: none; border-top: 1px solid var(--border); margin: 28px 0; }
+  .meta p { margin: 4px 0; }
+  .meta span { color: var(--muted); }
+  .table-wrap { overflow-x: auto; margin: 16px 0; }
+  table { width: 100%; border-collapse: collapse; min-width: 480px; }
+  th, td { text-align: left; padding: 10px 12px; border: 1px solid var(--border); font-size: 0.95rem; }
+  th { background: var(--th-bg); }
+  blockquote {
+    margin: 16px 0;
+    padding: 12px 16px;
+    background: var(--quote-bg);
+    border-left: 4px solid var(--accent);
+    border-radius: 4px;
+  }
+  blockquote p { margin: 0 0 8px; }
+  blockquote ul { margin: 0; }
+</style>
+</head>
+<body>
+<main>
+
+<h1>Privacy Policy</h1>
+
+<div class="meta">
+  <p><strong>App:</strong> ScoreUp</p>
+  <p><strong>Operator:</strong> SHS Developers</p>
+  <p><strong>Contact:</strong> <a href="mailto:sports.scoreup@gmail.com">sports.scoreup@gmail.com</a></p>
+  <p><strong>Effective date:</strong> October 4, 2026</p>
+  <p><strong>Last updated:</strong> October 4, 2026</p>
+</div>
+
+<p>This Privacy Policy explains what information ScoreUp (the "App") collects, how it is used, and your choices regarding that information. By using the App, you agree to the practices described here.</p>
+
+<hr>
+
+<h2>1. Overview: We Do Not Collect Your Data</h2>
+<p>ScoreUp is a <strong>fully offline, on-device app</strong>. All data you enter, including player names, avatar photos, match records, scores, statistics, and preferences, is stored exclusively on your own device using the device's local file system. <strong>SHS Developers does not operate any servers, databases, or cloud services that receive or store your personal data.</strong></p>
+
+<hr>
+
+<h2>2. What Data the App Stores (On Your Device)</h2>
+<p>The following data is created and stored locally on your device only:</p>
+<div class="table-wrap">
+<table>
+  <thead>
+    <tr><th>Data Type</th><th>Examples</th><th>Where Stored</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Player profiles</td><td>Names, optional avatar photos</td><td>Your device's local storage</td></tr>
+    <tr><td>Match records</td><td>Scores, sport, participants, timestamps</td><td>Your device's local storage</td></tr>
+    <tr><td>Statistics</td><td>Per-player stats by sport and group</td><td>Your device's local storage</td></tr>
+    <tr><td>Groups</td><td>Group names and member lists</td><td>Your device's local storage</td></tr>
+    <tr><td>App preferences</td><td>Onboarding status, last used format/sport</td><td>Your device's local storage</td></tr>
+    <tr><td>Ticket balance</td><td>Number of tickets remaining</td><td>Your device's local storage</td></tr>
+  </tbody>
+</table>
+</div>
+<p>This data never leaves your device unless you explicitly export or share it yourself.</p>
+
+<hr>
+
+<h2>3. Data We Do Not Collect</h2>
+<p>SHS Developers does <strong>not</strong> collect, transmit, or have access to:</p>
+<ul>
+  <li>Your name, email address, phone number, or any contact information</li>
+  <li>Location data (GPS or network-based)</li>
+  <li>Browsing or search history</li>
+  <li>Device contacts, calendar, or microphone</li>
+  <li>Any analytics, crash reports, or usage statistics from within the App itself</li>
+  <li>Payment or financial information (the App has no paid features)</li>
+</ul>
+
+<hr>
+
+<h2>4. Camera and Photo Library Access</h2>
+<p>The App may request access to your camera or photo library <strong>only</strong> if you choose to add an avatar photo to a player profile. This access is:</p>
+<ul>
+  <li><strong>Optional:</strong> avatars are not required to use any feature of the App</li>
+  <li><strong>On-demand:</strong> the App only accesses your photos when you actively tap the avatar button</li>
+  <li><strong>Local only:</strong> selected photos are stored on your device and are never uploaded anywhere</li>
+</ul>
+<p>You can revoke this permission at any time in your device's system settings.</p>
+
+<hr>
+
+<h2>5. Third-Party Advertising (Rewarded Ads)</h2>
+<p>To earn additional tickets, users may choose to watch <strong>optional rewarded video advertisements</strong> provided by third-party ad networks. When you watch a rewarded ad, the third-party ad provider may collect:</p>
+<ul>
+  <li>Device identifiers (e.g. advertising ID / IDFA)</li>
+  <li>Approximate location (country/region level, derived from IP address)</li>
+  <li>Ad interaction data (e.g. whether the ad was completed)</li>
+  <li>Device type, operating system, and language</li>
+</ul>
+<p>This data is collected by the <strong>ad network</strong>, not by SHS Developers, and is governed by the ad network's own privacy policy. Watching rewarded ads is entirely <strong>optional</strong>. You can use the App's features using your 25 default tickets without ever watching an ad.</p>
+<blockquote>
+  <p>If you wish to limit ad tracking, you can do so in your device settings:</p>
+  <ul>
+    <li><strong>Android:</strong> Settings → Privacy → Ads → Delete advertising ID</li>
+    <li><strong>iOS:</strong> Settings → Privacy &amp; Security → Apple Advertising → turn off Personalised Ads</li>
+  </ul>
+</blockquote>
+
+<hr>
+
+<h2>6. Children's Privacy</h2>
+<p>ScoreUp is designed for users of all ages and does not require any account registration or personal information to function. Because all data stays on-device and SHS Developers does not receive any user data, we do not knowingly collect personal information from children under 13.</p>
+<p>If a child under 13 uses the rewarded ad feature, the parent or guardian is responsible for supervising that interaction and reviewing the ad network's privacy policy. We recommend that parents disable rewarded ads for younger children by not permitting ad-watching.</p>
+
+<hr>
+
+<h2>7. No Account or Registration Required</h2>
+<p>The App does not require you to create an account, provide an email address, or sign in. There is no login, no password, and no user profile stored on any server.</p>
+
+<hr>
+
+<h2>8. Data Retention and Deletion</h2>
+<p>All data is retained on your device until you delete it. You can delete your data at any time:</p>
+<ul>
+  <li><strong>Delete specific records:</strong> use the in-app delete options for players, groups, or matches</li>
+  <li><strong>Delete all data:</strong> uninstall the App from your device. This permanently removes all locally stored data</li>
+</ul>
+<p>SHS Developers cannot retrieve, restore, or delete your data on your behalf because we have no access to it.</p>
+
+<hr>
+
+<h2>9. Data Security</h2>
+<p>Because your data never leaves your device, it is protected by your device's own security mechanisms (screen lock, encryption, etc.). We recommend keeping your device protected with a PIN, fingerprint, or other lock to prevent unauthorized access to your match records and player data.</p>
+
+<hr>
+
+<h2>10. Third-Party Services</h2>
+<p>The App is built using the <a href="https://expo.dev" target="_blank" rel="noopener">Expo</a> framework. Expo may collect anonymized crash or performance diagnostics at the platform level. Please refer to <a href="https://expo.dev/privacy" target="_blank" rel="noopener">Expo's Privacy Policy</a> for details. We do not use any additional third-party analytics SDKs within the App.</p>
+
+<hr>
+
+<h2>11. Changes to This Privacy Policy</h2>
+<p>We may update this Privacy Policy from time to time. When we do, we will update the "Last updated" date at the top of this document and, for significant changes, notify you through an in-app notice. Your continued use of the App after any changes constitutes your acceptance of the updated policy.</p>
+
+<hr>
+
+<h2>12. Your Rights</h2>
+<p>Depending on your country or region, you may have rights regarding your personal data, such as the right to access, correct, or delete it. Because all your data is stored only on your device, you can exercise these rights directly at any time by using the in-app delete features or by uninstalling the App.</p>
+<p>For any privacy-related questions or concerns, contact us at: <a href="mailto:sports.scoreup@gmail.com">sports.scoreup@gmail.com</a></p>
+
+<hr>
+
+<h2>13. Contact Us</h2>
+<p><strong>SHS Developers</strong><br>
+Email: <a href="mailto:sports.scoreup@gmail.com">sports.scoreup@gmail.com</a></p>
+<p>We will respond to privacy inquiries within a reasonable time.</p>
+
+</main>
+</body>
+</html>
